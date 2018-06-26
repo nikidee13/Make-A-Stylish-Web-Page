@@ -1,0 +1,63 @@
+body {
+  background-color: Lavender;
+}
+.box {
+  margin: 10px
+  padding: 10px
+  text-align: center;
+  color: Black;
+}
+.box1 {
+  background-color: Purple;
+}
+.box2 {
+  background-color: Orange;
+}
+.box3 {
+  background-color: Purple;
+}
+.box4 {
+  background-color: Orange;
+}
+h1 {
+  Color: Purple;
+}
+b {
+  Color: Grey;
+}
+h2 {
+  Color: Purple;
+}
+div {
+  display: flex;
+}
+h3 {
+  color: Purple;
+}
+h4 {
+  color: Purple;
+  text-align: center;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+img {
+  max-width: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    overflow:hidden;
+   -webkit-border-radius:100px;
+   -moz-border-radius:100px;
+   border-radius:100px;
+   width:200px;
+   height:200px;
+   background-size:100px 0px;
+}
